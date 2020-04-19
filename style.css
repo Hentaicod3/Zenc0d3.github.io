@@ -1,0 +1,67 @@
+body{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/792/460/915/1920x1080-px-code-coding-programming-simple-background-anime-ah-my-goddess-hd-art-wallpaper-preview.jpg);
+    background-size: cover;
+    background-attachment:fixed;
+    background-position: center;
+}
+body{
+    text-align: center;
+}
+@font-face {
+    font-family: tulisan_keren;
+    src: url(keren.otf);
+}
+h1{
+    font-family: 'tulisan_keren';
+    font-variant: inherit;
+    color: mintcream;
+}
+.menu{
+    width: 300px;
+	padding: 40px;
+	position: absolute;
+	top: 50%;
+	left: 45%;
+	transform: translate(-10%,70%);
+	background: transparent;
+	text-align: center;
+}
+.menu a{
+    border:0;
+	background: none;
+	display: block;
+	margin: 20px auto;
+	text-align: center;
+	border:2px solid #3498db;
+	padding: 14px 10px;
+	width: 200px;
+	outline: none;
+	color: white;
+	border-radius:24px;
+	transition: 0.25s;
+}
+
+.menu2{
+    width: 300px;
+	padding: 40px;
+	position: absolute;
+	top: 50%;
+	left: 45%;
+	transform: translate(-70%,70%);
+	background: transparent;
+	text-align: center;
+}
+.menu2 a{
+    border:0;
+	background: none;
+	display: block;
+	margin: 20px auto;
+	text-align: center;
+	border:2px solid #3498db;
+	padding: 14px 10px;
+	width: 200px;
+	outline: none;
+	color: white;
+	border-radius:24px;
+	transition: 0.25s;
+}
